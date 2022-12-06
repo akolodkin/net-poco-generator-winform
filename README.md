@@ -1,7 +1,7 @@
 # net-poco-generator-winform
 Generating .NET POCO Classes for SQL Query Results
 
-From: https://visualstudiomagazine.com/articles/2012/12/11/sqlqueryresults-code-generation.aspx
+Code was imported and upgraded from VisualStudio Magazine Article: https://visualstudiomagazine.com/articles/2012/12/11/sqlqueryresults-code-generation.aspx
 
 ## Updates 
 
